@@ -26,9 +26,6 @@ I’m **Muhammad Shakeel**, the proud founder and business owner of **Crown Umra
   - 🧾 Info Maps & Pics: Landmark and place insights
   - 🗣️ Learn Arabic: Basic Arabic for travelers
 
-📸 *Check out our detailed guide section:*  
-![Pilgrimage Guide](./3bf6af50-3b9d-4511-9bae-326b5dcf4613.png)
-
 ---
 
 ## 📍 Contact Information
