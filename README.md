@@ -1,4 +1,4 @@
-# 👑 Muhammad Shakeel
+# 👑 Mohammed Shakeel
 
 ### ✨ Founder & Business Owner of [Crown Umrah](https://www.crownumrah.co.uk/)
 
@@ -6,7 +6,7 @@
 
 Welcome to my GitHub profile!
 
-I’m **Muhammad Shakeel**, the proud founder and business owner of **Crown Umrah**, a comprehensive and trusted platform that brings together everything a pilgrim needs — from booking Umrah and Hajj packages to shopping Islamic essentials, and accessing valuable pilgrimage guides.
+I’m **Mohammed Shakeel**, the proud founder and business owner of **Crown Umrah**, a comprehensive and trusted platform that brings together everything a pilgrim needs — from booking Umrah and Hajj packages to shopping Islamic essentials, and accessing valuable pilgrimage guides.
 
 ---
 
@@ -31,9 +31,8 @@ I’m **Muhammad Shakeel**, the proud founder and business owner of **Crown Umra
 ## 📍 Contact Information
 
 **🏠 Address:**  
-70 Blacker Road,  
-Birkby, Huddersfield,  
-United Kingdom, HD2 2HU
+Huddersfield,  
+United Kingdom
 
 **📞 Phone & WhatsApp:**  
 [07394444392](tel:07394444392)
